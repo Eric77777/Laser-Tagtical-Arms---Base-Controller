@@ -1,5 +1,4 @@
 # LightFighter-Command-Base
-Open sourced (C#) Laser Tag PC app to define game settings, distribute to user Vest and Tagger units, and gather end-game player data.
 
 Project Objectives...
 
