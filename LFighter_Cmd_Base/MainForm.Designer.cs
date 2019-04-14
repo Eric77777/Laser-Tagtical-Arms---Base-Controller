@@ -1,4 +1,4 @@
-﻿namespace LTag_LaunchPad
+﻿namespace LFighter_Cmd_Base
 {
     partial class MainForm
     {
@@ -170,8 +170,8 @@
             // 
             // Game_tabControl
             // 
-            this.Game_tabControl.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.Game_tabControl.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.Game_tabControl.Controls.Add(this.GameSetup_tabPage);
             this.Game_tabControl.Controls.Add(this.GameTime_tabPage);
@@ -498,7 +498,7 @@
             // 
             // ControlBaseRadio_panel
             // 
-            this.ControlBaseRadio_panel.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            this.ControlBaseRadio_panel.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.ControlBaseRadio_panel.BackColor = System.Drawing.SystemColors.Desktop;
             this.ControlBaseRadio_panel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
@@ -514,7 +514,7 @@
             // 
             // ControlBaseRadioCheck__button
             // 
-            this.ControlBaseRadioCheck__button.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            this.ControlBaseRadioCheck__button.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.ControlBaseRadioCheck__button.BackColor = System.Drawing.Color.SteelBlue;
             this.ControlBaseRadioCheck__button.Cursor = System.Windows.Forms.Cursors.Hand;
@@ -593,7 +593,7 @@
             // 
             // GameSetup_GameDirections_groupBox
             // 
-            this.GameSetup_GameDirections_groupBox.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            this.GameSetup_GameDirections_groupBox.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.GameSetup_GameDirections_groupBox.BackColor = System.Drawing.SystemColors.Window;
             this.GameSetup_GameDirections_groupBox.Controls.Add(this.Setup_GameDirections_textBox);
@@ -607,8 +607,8 @@
             // 
             // Setup_GameDirections_textBox
             // 
-            this.Setup_GameDirections_textBox.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.Setup_GameDirections_textBox.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.Setup_GameDirections_textBox.BackColor = System.Drawing.SystemColors.Window;
             this.Setup_GameDirections_textBox.Font = new System.Drawing.Font("Copperplate Gothic Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -784,8 +784,8 @@
             this.GameSetup_datagridView.AllowUserToResizeRows = false;
             dataGridViewCellStyle1.Font = new System.Drawing.Font("Copperplate Gothic Light", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.GameSetup_datagridView.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
-            this.GameSetup_datagridView.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.GameSetup_datagridView.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.GameSetup_datagridView.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.AllCells;
             this.GameSetup_datagridView.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
@@ -855,8 +855,8 @@
             // 
             // panel2
             // 
-            this.panel2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.panel2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.panel2.BackColor = System.Drawing.Color.SteelBlue;
             this.panel2.Controls.Add(this.GameSetup_AddUnitID_comboBox);
@@ -1383,8 +1383,8 @@
             // 
             // StepDirections_textBox
             // 
-            this.StepDirections_textBox.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.StepDirections_textBox.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.StepDirections_textBox.BackColor = System.Drawing.SystemColors.Window;
             this.StepDirections_textBox.Font = new System.Drawing.Font("Copperplate Gothic Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -1399,7 +1399,7 @@
             // 
             // playerDataBindingSource
             // 
-            this.playerDataBindingSource.DataSource = typeof(LTag_LaunchPad.PlayerData);
+            this.playerDataBindingSource.DataSource = typeof(LFighter_Cmd_Base.PlayerData);
             // 
             // GameSetup_datagridView_UnitID
             // 

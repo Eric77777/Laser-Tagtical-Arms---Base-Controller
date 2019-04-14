@@ -7,7 +7,7 @@
     <ProjectGuid>{4B6277B1-767C-4419-8B49-F89FDA0699E7}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>LFighter_Cmd_Base</RootNamespace>
-    <AssemblyName>LightFighter Command Base</AssemblyName>
+    <AssemblyName>Light Fighter Command Base</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

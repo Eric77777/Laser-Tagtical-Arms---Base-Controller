@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LTag_LaunchPad
+namespace LFighter_Cmd_Base
 {
     static class VariableDefinition  //INITIALIZE VARIABLES FOR GAME SETTINGS OF MAIN FORM
     {

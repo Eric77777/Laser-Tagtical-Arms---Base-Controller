@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace LTag_LaunchPad
+namespace LFighter_Cmd_Base
 {
     static class Program
     {

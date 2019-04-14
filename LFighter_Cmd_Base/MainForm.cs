@@ -13,7 +13,7 @@ using Excel = Microsoft.Office.Interop.Excel;
 using System.Runtime.InteropServices;
 using System.Diagnostics;
 
-namespace LTag_LaunchPad
+namespace LFighter_Cmd_Base
 {
     public partial class MainForm : Form
     {

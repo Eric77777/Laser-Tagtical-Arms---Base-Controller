@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LTag_LaunchPad", "LTag_LaunchPad\LTag_LaunchPad.csproj", "{4B6277B1-767C-4419-8B49-F89FDA0699E7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LFighter_Cmd_Base", "LFighter_Cmd_Base\LFighter_Cmd_Base.csproj", "{4B6277B1-767C-4419-8B49-F89FDA0699E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
