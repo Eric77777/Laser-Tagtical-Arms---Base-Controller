@@ -9,3 +9,10 @@ Project Objectives...
 *Provide various game modes (i.e. survival or timed games, individual or teams) and settings (i.e. friendly fire on/off, reviving on/off).
 
 *Stretch Goal: Enable the use of additional devices (Heal Devices, Shield Devices, Gun Upgrades).
+
+
+
+
+
+Setup of C# Solution:
+*Place HistoricalData.xlsx file in C:\Lasertag\Historical Player Data\
